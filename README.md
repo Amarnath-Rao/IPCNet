@@ -1,3 +1,4 @@
+
 # IPCNet: Empowering Decentralized Applications
 
 ## Overview
@@ -37,3 +38,7 @@ IPCNet is a revolutionary platform that simplifies the deployment and management
 - run `yarn`
 - run `yarn dev`
 - open `http://localhost:3000` in your browser to access ipcnet
+
+
+### Demo:
+https://github.com/Amarnath-Rao/IPCNet/assets/96937608/40579bc4-b8a9-4e36-ab9d-303155816db2
